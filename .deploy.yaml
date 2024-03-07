@@ -1,0 +1,5 @@
+project:
+    name: test-app
+deployment:
+    replicas: 1
+    image: kennethreitz/httpbin
